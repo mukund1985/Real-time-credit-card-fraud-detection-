@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+
 # Real time credit card fraud detection
 This pattern demonstrates GCP capabilities to predict whether a credit card transaction is fradulent or not in real time. This uses a streaming dataflow pipeline to
 * consume incoming transaction details from Cloud Pub/Sub
@@ -395,10 +395,7 @@ We have created a sample dashboard to get started on monitoring few of the impor
 ### Clean Up
 To avoid incurring charges to your Google Cloud account, ensure you terminate the resources used in this pattern
 
-## Disclaimer
-This is not an officially supported Google product.
 
-All files in this repository are under the [Apache License, Version 2.0](LICENSE.txt) unless noted otherwise.
 
 
  
